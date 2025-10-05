@@ -1,4 +1,3 @@
-#!/home/rafael/myenv/bin/python
 import math
 import sys
 import matplotlib.pyplot as plt
